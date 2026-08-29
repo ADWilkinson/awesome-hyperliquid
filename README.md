@@ -22,6 +22,7 @@
 - [Hyperliquid Starter Bot](https://github.com/hypeprinter007-stack/hyperliquid-starter-bot) - Minimal, production-ready algo trading bot for Hyperliquid perps with fused signal layer (sentiment + macro + market structure).
 - [Signalview](https://www.signalview.xyz/) - Non-custodial AI agents that trade backtested, scored perps signals 24/7 using Hyperliquid agent keys (orders only, never withdrawals). Free to run.
 - [Testudo](https://github.com/sub0xdai/testudo) - Open-source crypto exchange platform with Rust matching engine, Hyperliquid agent wallet integration, shadow-mode paper trading, and multi-exchange support.
+- [HyperGrok Trading Desk](https://github.com/galleonlabs/hypergrok-trading-desk) - Grok-first Hyperliquid desk: seven agent skills for setup, orders, positions, market data, and a strategy lab. `npx skills add galleonlabs/hypergrok-trading-desk`
 
 ### Analytics
 
